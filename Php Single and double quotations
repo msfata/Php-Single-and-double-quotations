@@ -1,0 +1,24 @@
+<?php
+echo('<br>');
+echo('diffrence between single and double quotation marks<br>');
+echo('<br>');
+
+$randomString = "Mohammed Shafiq Fata";echo("<hr>");
+
+
+
+echo('Single quotation marks : $randomString<hr>');
+
+
+
+echo("Double quotation marks : $randomString<hr>");
+
+
+
+print('Single quotation marks : $randomString<hr>');
+
+
+
+print("Double quotation marks : $randomString<hr>");
+
+?>
